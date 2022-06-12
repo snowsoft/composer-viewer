@@ -1,19 +1,19 @@
 {
-    "name": "jxlwqq/composer-viewer",
+    "name": "snowsoft/composer-viewer",
     "description": "Composer Viewer for Laravel-admin",
     "type": "library",
     "keywords": ["laravel-admin", "extension"],
-    "homepage": "https://github.com/jxlwqq/composer-viewer",
+    "homepage": "https://github.com/snowsoft/composer-viewer",
     "license": "MIT",
     "authors": [
         {
-            "name": "jxlwqq",
-            "email": "jxlwqq@gmail.com"
+            "name": "snowsoft",
+            "email": "abdulkadirkar@gmail.com"
         }
     ],
     "require": {
         "php": ">=7.0.0",
-        "encore/laravel-admin": "~1.6"
+        "snowsoft/laravel-admin": "~1.6"
     },
     "require-dev": {
         "phpunit/phpunit": "~6.0"
