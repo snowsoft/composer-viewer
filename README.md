@@ -11,7 +11,7 @@ A web interface of composer packages in laravel.
 > Before you install, make sure PHP exec() function is enabled in your php.ini config file.
 
 ```bash
-composer require jxlwqq/composer-viewer
+composer require snowsoft/composer-viewer
 # If you want to add a link entry in the left menu, use the following command to import
 php artisan admin:import composer-viewer
 ```
